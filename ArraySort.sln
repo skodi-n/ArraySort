@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySort.UI", "ArraySort.UI\ArraySort.UI.csproj", "{355CE0E3-B0CC-4D92-ADB7-091A702F5BAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySort.Lib", "ArraySort.Lib\ArraySort.Lib.csproj", "{6ECB1791-0D63-45C3-8FB3-F86E92CD4A93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{355CE0E3-B0CC-4D92-ADB7-091A702F5BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355CE0E3-B0CC-4D92-ADB7-091A702F5BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355CE0E3-B0CC-4D92-ADB7-091A702F5BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355CE0E3-B0CC-4D92-ADB7-091A702F5BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ECB1791-0D63-45C3-8FB3-F86E92CD4A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECB1791-0D63-45C3-8FB3-F86E92CD4A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ECB1791-0D63-45C3-8FB3-F86E92CD4A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ECB1791-0D63-45C3-8FB3-F86E92CD4A93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53244E8C-FEFD-46AF-974A-3D873081DB81}
+	EndGlobalSection
+EndGlobal

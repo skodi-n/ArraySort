@@ -1,0 +1,10 @@
+C:\Users\skodl\Desktop\SWE\RadioAp\ArraySort.UI\bin\Debug\ArraySort.UI.exe.config
+C:\Users\skodl\Desktop\SWE\RadioAp\ArraySort.UI\bin\Debug\ArraySort.UI.exe
+C:\Users\skodl\Desktop\SWE\RadioAp\ArraySort.UI\bin\Debug\ArraySort.UI.pdb
+C:\Users\skodl\Desktop\SWE\RadioAp\ArraySort.UI\bin\Debug\ArraySort.Lib.dll
+C:\Users\skodl\Desktop\SWE\RadioAp\ArraySort.UI\bin\Debug\ArraySort.Lib.pdb
+C:\Users\skodl\Desktop\SWE\RadioAp\ArraySort.UI\obj\Debug\ArraySort.UI.csproj.AssemblyReference.cache
+C:\Users\skodl\Desktop\SWE\RadioAp\ArraySort.UI\obj\Debug\ArraySort.UI.csproj.CoreCompileInputs.cache
+C:\Users\skodl\Desktop\SWE\RadioAp\ArraySort.UI\obj\Debug\ArraySor.D973DA28.Up2Date
+C:\Users\skodl\Desktop\SWE\RadioAp\ArraySort.UI\obj\Debug\ArraySort.UI.exe
+C:\Users\skodl\Desktop\SWE\RadioAp\ArraySort.UI\obj\Debug\ArraySort.UI.pdb

@@ -1,0 +1,6 @@
+C:\Users\skodl\Desktop\SWE\RadioAp\ArraySort.Lib\bin\Debug\ArraySort.Lib.dll
+C:\Users\skodl\Desktop\SWE\RadioAp\ArraySort.Lib\bin\Debug\ArraySort.Lib.pdb
+C:\Users\skodl\Desktop\SWE\RadioAp\ArraySort.Lib\obj\Debug\ArraySort.Lib.csproj.AssemblyReference.cache
+C:\Users\skodl\Desktop\SWE\RadioAp\ArraySort.Lib\obj\Debug\ArraySort.Lib.csproj.CoreCompileInputs.cache
+C:\Users\skodl\Desktop\SWE\RadioAp\ArraySort.Lib\obj\Debug\ArraySort.Lib.dll
+C:\Users\skodl\Desktop\SWE\RadioAp\ArraySort.Lib\obj\Debug\ArraySort.Lib.pdb
